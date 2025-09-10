@@ -49,7 +49,7 @@ Approximately **4 hours**.
 ---
 
 ### 📂 GitHub Repository
-[https://github.com/mohammedfaizaansharief1/Cars-Sell.git]
+[Cars Sell](https://github.com/mohammedfaizaansharief1/Cars-Sell.git)
 
 ---
 

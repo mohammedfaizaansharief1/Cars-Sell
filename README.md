@@ -1,5 +1,4 @@
 # Cars-Sell
-# Bootstrap 5 UI Exploration & Page Design
 
 ## 📝 Project Reflection Report
 
@@ -23,8 +22,6 @@
 - Git & GitHub for version control
 - GitHub Pages for deployment
 
-I also used **ChatGPT** to get guidance on project structure and sample code snippets.
-
 ---
 
 ### ⚡ Challenges Faced and Solutions
@@ -42,7 +39,7 @@ This task helped me gain hands-on experience working with Bootstrap 5 components
 ---
 
 ### ⏱️ Time Taken
-Approximately **8 hours** over 2 days.
+Approximately **4 hours**.
 
 ---
 
@@ -52,7 +49,7 @@ Approximately **8 hours** over 2 days.
 ---
 
 ### 📂 GitHub Repository
-[Your GitHub Repo URL]
+[https://github.com/mohammedfaizaansharief1/Cars-Sell.git]
 
 ---
 
